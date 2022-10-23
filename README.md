@@ -1,5 +1,5 @@
 # Travel
-## Live Demo (link)
+[Live Demo](https://elenero.github.io/travel/index.html)
 ### Стек: HTML, Css, Vanilla JS
 ### Описание:
 * Одностраничный сайт для планирования путешествий.
